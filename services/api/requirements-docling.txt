@@ -1,0 +1,6 @@
+# Required Docling ingestion profile, included by requirements.txt.
+# Verified target: CPython 3.11, macOS arm64. Launcher provisions local PDF models.
+docling==2.60.1
+docling-core==2.48.2
+docling-ibm-models==3.9.1
+transformers==4.49.0
