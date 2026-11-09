@@ -114,3 +114,4 @@ migration is required. PyMuPDF is listed in `requirements-test.txt` only for
 synthetic fixtures and generated-PDF verification, not production ingestion.
 See [DOCLING_MIGRATION.md](DOCLING_MIGRATION.md) for migration and verification.
 # sop_spotimizer_latest
+# Kenvue_Boys_SOP_Optimization_and_Harmonization
